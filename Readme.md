@@ -1,5 +1,5 @@
 # My New Strapi Project
-
+# updating file
 This is a Strapi project created as part of learning and testing.
 
 ## 📦 Steps followed:
