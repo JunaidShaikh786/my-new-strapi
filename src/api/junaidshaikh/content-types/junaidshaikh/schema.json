@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "junaidshaikhs",
+  "info": {
+    "singularName": "junaidshaikh",
+    "pluralName": "junaidshaikhs",
+    "displayName": "junaidshaikh"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "JunaidShaikh": {
+      "type": "string"
+    },
+    "DEVOPSPROJECT": {
+      "type": "blocks"
+    },
+    "TRUE": {
+      "type": "boolean"
+    }
+  }
+}
